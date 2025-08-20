@@ -2,75 +2,53 @@
 marp: true
 theme: custom
 paginate: true
-class: lead
+_paginate: true
 ---
 
-<!-- Email for requirement -->
-<!-- 24f2003053@ds.study.iitm.ac.in -->
+<!-- Author: 24f2003053@ds.study.iitm.ac.in -->
 
-# Product Documentation Presentation
-### Using Marp & Custom Theme
+# Product Documentation  
+### Using Marp for Technical Writing  
 
----
-
-# Agenda
-
-1. Introduction  
-2. Features  
-3. Algorithmic Complexity  
-4. Conclusion  
+- Version-controlled presentations  
+- Convertible to PDF, PPTX, HTML  
+- Custom themes  
 
 ---
 
-# Introduction
+# Features of Our Product
 
-This presentation demonstrates:  
-- **Custom theme** from `custom.css`  
-- **Page numbers** on every slide  
-- **Background image**  
-- **Math equations**  
+- Easy integration  
+- High performance  
+- Secure by design  
 
----
-
-# Features
-
-- Easy to write in Markdown  
-- Custom themes with CSS  
-- Export to **PDF / PPTX / HTML**  
-- Version control friendly  
+Equation for time complexity:  
+$$O(n \log n)$$
 
 ---
 
-<!-- Slide with background image -->
+# Custom Styling Example
+
+This text uses **custom.css** styling.  
+You can change fonts, colors, and layouts.
+
+---
+
+# Interactive Documentation
+
+- Auto-generated slides  
+- Consistent branding  
+- Live collaboration  
+
+---
+
+# Background Example
+
 ![bg](images/background.jpg)
 
-# Background Image Example
-
-This slide uses a **custom background image** from `images/background.jpg`.
-
 ---
 
-# Algorithmic Complexity
+# Contact
 
-We can express the complexity of an algorithm as:
-
-$$ O(n \log n) $$
-
-For example, **Merge Sort** has complexity:
-
-$$ T(n) = 2T(n/2) + O(n) $$
-
----
-
-# Conclusion
-
-- Marp allows **beautiful docs** in slides format  
-- **Custom themes** make them professional  
-- **GitHub versioning** ensures maintainability  
-
----
-
-# Thank You
-
-📧 Contact: **24f2003053@ds.study.iitm.ac.in**
-
+📧 24f2003053@ds.study.iitm.ac.in  
+Page numbers are shown below ⬇️
