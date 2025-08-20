@@ -2,12 +2,13 @@
 marp: true
 theme: custom
 paginate: true
-_paginate: true
+header: "Product Documentation"
+footer: "24f2003053@ds.study.iitm.ac.in"
 ---
 
 <!-- Author: 24f2003053@ds.study.iitm.ac.in -->
 
-# Product Documentation  
+# 🚀 Product Documentation  
 ### Using Marp for Technical Writing  
 
 - Version-controlled presentations  
@@ -16,39 +17,33 @@ _paginate: true
 
 ---
 
+<!-- _backgroundImage: url('images/background.jpg') -->
+# 🌄 Background Slide Example
+
+This slide demonstrates a **background image** using a Marp directive.
+
+---
+
 # Features of Our Product
 
-- Easy integration  
-- High performance  
-- Secure by design  
-
-Equation for time complexity:  
-$$O(n \log n)$$
+- Easy to write in Markdown  
+- Customizable styling via `custom.css`  
+- Exportable to multiple formats  
 
 ---
 
-# Custom Styling Example
+# Algorithm Complexity
 
-This text uses **custom.css** styling.  
-You can change fonts, colors, and layouts.
+We can express the complexity of merge sort as:
 
----
-
-# Interactive Documentation
-
-- Auto-generated slides  
-- Consistent branding  
-- Live collaboration  
+$$
+T(n) = 2T\left(\frac{n}{2}\right) + O(n) = O(n \log n)
+$$
 
 ---
 
-# Background Example
-
-![bg](images/background.jpg)
-
----
-
-# Contact
+# Contact & Notes
 
 📧 24f2003053@ds.study.iitm.ac.in  
-Page numbers are shown below ⬇️
+Page numbers appear at the bottom.  
+Marp directives are used for theme, pagination, and slide background.
