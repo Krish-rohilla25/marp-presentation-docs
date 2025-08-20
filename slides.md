@@ -6,27 +6,29 @@ header: "Product Documentation"
 footer: "24f2003053@ds.study.iitm.ac.in"
 ---
 
-# 🚀 Product Documentation  
-### Using Marp for Technical Writing  
+<!-- Author: 24f2003053@ds.study.iitm.ac.in -->
 
-- Version-controlled presentations  
-- Convertible to PDF, PPTX, HTML  
-- Custom themes  
+# 🚀 Product Documentation
+### Using Marp for Technical Writing
+
+- Version-controlled presentations
+- Convertible to PDF, PPTX, HTML
+- Custom themes
 
 ---
 
+<!-- _backgroundImage: url('images/background.jpg') -->
 # 🌄 Background Slide Example
+
+This slide demonstrates a **background image using Marp directive**.
 ![bg](images/background.jpg)
-
-This slide demonstrates a **background image** using Markdown image syntax.
-
 ---
 
-# Features of Our Product
+# Features
 
-- Easy to write in Markdown  
-- Customizable styling via `custom.css`  
-- Exportable to multiple formats  
+- Easy to write in Markdown
+- Customizable styling via `custom.css`
+- Exportable to multiple formats
 
 ---
 
