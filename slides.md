@@ -6,8 +6,6 @@ header: "Product Documentation"
 footer: "24f2003053@ds.study.iitm.ac.in"
 ---
 
-<!-- Author: 24f2003053@ds.study.iitm.ac.in -->
-
 # 🚀 Product Documentation  
 ### Using Marp for Technical Writing  
 
@@ -17,10 +15,10 @@ footer: "24f2003053@ds.study.iitm.ac.in"
 
 ---
 
-<!-- _backgroundImage: url('images/background.jpg') -->
 # 🌄 Background Slide Example
+![bg](images/background.jpg)
 
-This slide demonstrates a **background image** using a Marp directive.
+This slide demonstrates a **background image** using Markdown image syntax.
 
 ---
 
@@ -34,7 +32,7 @@ This slide demonstrates a **background image** using a Marp directive.
 
 # Algorithm Complexity
 
-We can express the complexity of merge sort as:
+Equation:
 
 $$
 T(n) = 2T\left(\frac{n}{2}\right) + O(n) = O(n \log n)
@@ -42,8 +40,6 @@ $$
 
 ---
 
-# Contact & Notes
+# Contact
 
-📧 24f2003053@ds.study.iitm.ac.in  
-Page numbers appear at the bottom.  
-Marp directives are used for theme, pagination, and slide background.
+📧 24f2003053@ds.study.iitm.ac.in
